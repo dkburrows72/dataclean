@@ -1,0 +1,26 @@
+Metadata-Version: 1.2
+Name: dataclean
+Version: 0.1.0
+Summary: Tools for cleaning csv files for data science
+Home-page: https://github.com/dkburrows72/dataclean
+Author: Dennis K. Burrows
+Author-email: dkburrows72@gmail.com
+License: BSD
+Description: UNKNOWN
+Keywords: dataclean
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development
+Requires-Python: >=3.5
